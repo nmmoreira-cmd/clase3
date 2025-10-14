@@ -24,6 +24,6 @@ for nota in notas:
     if nota > 7.0:
         print(f"Nota aprobada: {nota}")
 
-
+ciclo = ("POO" ,  "matematicas aplicadas" , "MDS" , "BASE DE DATOS" , "DISEÑO")
 
 
