@@ -26,4 +26,4 @@ for nota in notas:
 
 ciclo = ("POO" ,  "matematicas aplicadas" , "MDS" , "BASE DE DATOS" , "DISEÑO")
 
-
+notas =( 10, 10, 10, 10, 10 )
